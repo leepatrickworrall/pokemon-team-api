@@ -24,13 +24,13 @@ sent to the API.
 
 ### Instructions
 
-Navigate to your desired location on your system to `git pull` the repository.
+Navigate to your desired location on your system to `git clone` the repository.
 
 Once there, you can perform the following steps:
 
 ```
 # This collects this repository and downloads it to your system.
-https://github.com/leepatrickworrall/pokemon-team-api.git
+git clone https://github.com/leepatrickworrall/pokemon-team-api.git
 
 # Install the necessary dependencies.
 pip install -r requirements.txt
